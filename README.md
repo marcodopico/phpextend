@@ -14,4 +14,4 @@ Example:
   getIp(); // Example
 ?>
 ```
-* getIp() - Gets the user IP Address
+* getIp() - Gets the user IP Address with ``$ip``
